@@ -1,7 +1,7 @@
 #! /bin/bash
 
 SERVICE="apache2"
-EMAIL="gopichand.pantala@pennywisesolutions.com"
+EMAIL="gopichand.pantala@gmail.com"
 
 #if systemctl is-active --quiet $SERVICE; then
 #	echo "$SERVICE is running" \

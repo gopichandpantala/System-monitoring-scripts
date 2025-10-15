@@ -1,6 +1,6 @@
 #! /bin/bash
 
-MAIL="gopichand.pantala@pennywisesolutions.com"
+MAIL="gopichand.pantala@gmail.com"
 
 PORTS=$(sudo netstat -tnlp | grep LISTEN)
 

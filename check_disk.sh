@@ -3,7 +3,7 @@
 WARNING=15
 CRITICAL=20
 
-EMAIL="gopichand.pantala@pennywisesolutions.com"
+EMAIL="gopichand.pantala@gmail.com"
 
 DISK=$(df -h / | awk 'NR==2 {gsub("%","",$5); print $5}')
 

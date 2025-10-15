@@ -3,7 +3,7 @@
 WARNING=80
 CRITICAL=90
 
-EMAIL="gopichand.pantala@pennywisesolutions.com"
+EMAIL="gopichand.pantala@gmail.com"
 
 CPU=$(top -bn1 | grep "Cpu(s)" | awk '{print 100 - $8}')    #runs top as batch job and prints only 1 iteration then print cpu idle value and minus from the 100
 

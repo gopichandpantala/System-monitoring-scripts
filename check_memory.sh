@@ -3,7 +3,7 @@
 WARNING=35
 CRITICAL=50
 
-EMAIL="gopichand.pantala@pennywisesolutions.com"
+EMAIL="gopichand.pantala@gmail.com"
 
 MEMORY=$(free | awk '/Mem:/ {printf "%.0f", $3/$2 * 100}')
 
